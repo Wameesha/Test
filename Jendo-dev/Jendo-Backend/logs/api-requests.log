@@ -1,0 +1,4 @@
+2025-12-09 12:36:00.557 [http-nio-5000-exec-3] INFO  c.j.a.c.RequestLoggingInterceptor - API Request - Method: POST | URI: /api/appointments | Client IP: 0:0:0:0:0:0:0:1 | User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+2025-12-09 12:36:00.667 [http-nio-5000-exec-3] INFO  c.j.a.c.RequestLoggingInterceptor - API Response - Method: POST | URI: /api/appointments | Status: 404 | Time: 110ms
+2025-12-09 12:36:18.517 [http-nio-5000-exec-6] INFO  c.j.a.c.RequestLoggingInterceptor - API Request - Method: POST | URI: /api/doctors | Client IP: 0:0:0:0:0:0:0:1 | User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+2025-12-09 12:36:18.574 [http-nio-5000-exec-6] INFO  c.j.a.c.RequestLoggingInterceptor - API Response - Method: POST | URI: /api/doctors | Status: 201 | Time: 57ms

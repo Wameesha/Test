@@ -1,0 +1,1 @@
+2025-12-09 13:26:14.206 [http-nio-5000-exec-1] ERROR c.j.a.c.e.GlobalExceptionHandler - NotFoundException: User not found with id: 1 | Path: uri=/api/appointments
